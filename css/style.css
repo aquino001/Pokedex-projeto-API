@@ -23,7 +23,7 @@ main {
     max-width: 425px;
 }
 
-.img-pokemon {
+.pokemon__image {
     position: absolute;
     bottom: 55%;
     left: 50%;
@@ -73,6 +73,7 @@ main {
     transform: translate(-57%, 0);
     display: flex;
     gap: 20px;
+
 }
 
 .button {
