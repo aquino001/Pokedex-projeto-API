@@ -1,0 +1,50 @@
+POKEDEX (API)
+
+
+Membros:
+	Luan Aquino
+	José Ambrósio
+	Isaque Newton
+	Guilherme Melo
+
+
+
+Sobre:
+	O projeto Pokedex é uma plataforma dedicada a fãs de Pokémon, permitindo que os usuários explorem e conheçam os Pokémon das 1ª à 5ª geração (Pois as outras gerações não são carregadas por causa da mudança de gráfico saindo do 2D para o 3D).
+	Com uma interface amigável, o projeto oferece uma experiência intuitiva de pesquisa, onde é possível encontrar informações detalhadas sobre cada Pokémon, incluindo seus nomes e imagens.
+
+	Nosso objetivo é criar um recurso acessível e divertido para entusiastas, desenvolvedores e educadores, promovendo a interação com o vasto universo Pokémon.
+	Com a Pokedex, você pode facilmente descobrir e aprender mais sobre seus Pokémon favoritos, seja para jogar, estudar ou simplesmente apreciar a rica lore desse icônico mundo.
+
+	Seja você um treinador experiente ou um novo fã, a Pokedex está aqui para ajudar você em sua jornada!
+
+
+
+Consulta Rápida:
+	Permite que os usuários busquem informações sobre Pokémon por nome ou número, facilitando a identificação e a pesquisa.
+
+Interface Simples:
+	A API oferece uma interface intuitiva, ideal para desenvolvedores que desejam integrar dados de Pokémon em seus aplicativos ou sites.
+
+Acesso a Imagens:
+	Além dos dados textuais, a API fornece URLs para imagens dos Pokémon, permitindo uma visualização imediata.
+
+Compatibilidade com Várias Gerações:
+	Suporte para pesquisas de Pokémon da 1ª à 5ª geração, garantindo uma ampla cobertura do universo Pokémon.
+
+Desenvolvimento de Aplicativos:
+	Útil para desenvolvedores que desejam criar jogos, aplicativos de consulta ou ferramentas de aprendizado relacionadas a Pokémon.
+
+Recursos Educacionais:
+	Pode ser utilizada em projetos educacionais para ensinar sobre programação, APIs e manipulação de dados.
+
+Facilidade de Integração:
+	Pode ser facilmente integrada a outros serviços ou APIs, potencializando a criação de aplicações mais complexas.
+
+
+
+Participação no Projeto:
+	Luan Aquino (HTML, CSS e Liderança)
+	José Ambrósio (JavaScript e API)
+	Isaque Newton (CSS)
+	Guilherme Melo (JavaScript)
